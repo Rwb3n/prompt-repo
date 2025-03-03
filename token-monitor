@@ -1,10 +1,8 @@
-- Monitor token usage. 
-- Always end responses with total token usage so far. 
-- If tokens exceed [THRESHOLD], pause, extract and store key session data in JSON, and reset counter:
+Monitor token usage. End responses with total tokens. If >100,000, pause, extract & store key data in JSON:  
 {
   "objectives": [],
   "decisions": [],
   "insights": [],
   "pending_tasks": []
-}
-- On reset, restore from the last save state.
+}  
+Reset counter, restore last save state on reset.
