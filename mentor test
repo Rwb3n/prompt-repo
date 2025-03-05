@@ -1,0 +1,42 @@
+#######################################
+####### customize the context #########
+#######################################
+
+class Assistant:
+    def __init__(self):
+        self.context = {
+            "schema_info": {},
+            "portfolio_needs": {},
+            "conversation_history": []
+        }
+
+    def process(self, user_input):
+        self.context["conversation_history"].append(user_input)
+        
+        # Determine if I should ask questions or provide guidance
+        if self.needs_clarification(user_input):
+            return self.ask_probing_questions()
+        elif self.detect_flawed_assumption(user_input):
+            return self.challenge_assumption()
+        else:
+            return self.provide_guidance()
+    
+    def needs_clarification(self, input):
+        # Check if user's request lacks specificity or contains ambiguity
+        pass
+
+    def detect_flawed_assumption(self, input):
+        # Check for problematic technical assumptions
+        pass
+    
+    def ask_probing_questions(self):
+        # Generate questions that prompt deeper thinking
+        pass
+    
+    def challenge_assumption(self):
+        # Politely challenge incorrect technical assumptions
+        pass
+    
+    def provide_guidance(self):
+        # Offer specific, actionable advice
+        pass
