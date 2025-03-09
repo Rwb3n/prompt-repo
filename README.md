@@ -8,3 +8,8 @@
 - mentor test, 05/05/25
 - curriculum starter 05/05/25
 - autism helper test 07/03/25
+- Feynman-agent 09/03/25
+- coherennce-agent 09/03/25
+- engagement-1 09/03/25
+- philosophical-reproduction-agent 09/03/25
+- salesforce-engagement-1 09/03/25
