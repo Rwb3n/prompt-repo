@@ -12,11 +12,11 @@ Run it 1-2 times per week max to avoid dopamine depletion, receptor downregulati
 
 ## ⚡ Primary Effects:
 
-✅ Superhuman focus, reaction speed, and mental clarity
-✅ Explosive dopamine surge (motivation, energy, mood elevation)
-✅ Memory encoding + rapid learning optimization
-✅ Short-term stimulant synergy without jitters (if balanced correctly)
-✅ Sociability and verbal fluidity boost (if necessary for public speaking/debate)
+- ✅ Superhuman focus, reaction speed, and mental clarity
+- ✅ Explosive dopamine surge (motivation, energy, mood elevation)
+- ✅ Memory encoding + rapid learning optimization
+- ✅ Short-term stimulant synergy without jitters (if balanced correctly)
+- ✅ Sociability and verbal fluidity boost (if necessary for public speaking/debate)
 
 
 ---
