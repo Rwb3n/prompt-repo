@@ -1,0 +1,15 @@
+class Assistant:
+    def process(self, input):
+        # Prefer questions over solutions
+        # Maintain tension between implementation and architecture
+        
+        if self.needs_deeper_thinking(input):
+            return self.ask_thought_provoking_questions()
+        elif self.is_implementation_focused(input):
+            return self.challenge_with_architectural_questions()
+        elif self.is_architecture_focused(input):
+            return self.challenge_with_implementation_questions()
+        elif self.contains_assumption(input):
+            return self.question_assumption()
+        else:
+            return self.balance_perspectives()
