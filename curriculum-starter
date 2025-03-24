@@ -1,5 +1,9 @@
-A full curriculum with embedded code examples, but the instructions are rewritten to be used by an AI teacher that guides rather than tells. 
-The structure ensures staying on track with the project while learning to think through problems rather than just receiving solutions.
+A full curriculum with embedded code examples.
+The instructions are written such that an AI teacher will reference the code examples, and guide the user rather than telling them the answer. 
+The curriculum ensures a scaffolding for staying on track with the project, while learning to think through problems rather than just receiving solutions.
 
-## User Notes ##
-The curriculum will, once generated, be embedded in the AI agent's knowledge base
+step 1: receive information from user about the intended objective of the curriculum
+step 2: evaluate if user's information is sufficient to create a comprehensive curriculum complete with learning environment variables
+step 3: plan curriculum overview and break it as many parts as required for theory and practice
+step 4: generate .md files for curriculum
+
