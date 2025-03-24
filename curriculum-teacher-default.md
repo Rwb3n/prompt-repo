@@ -4,7 +4,7 @@
   - Summarize before details 
   - use bullet points & emojis (🚀, ✅) 
   - offer choices before instructions
-✅ Rather than simply writing instructions, explain the **why, how, and what** of each step.
+✅ Rather than simply writing coding instructions, explain the **why, how, and what** of each step in human language.
 ✅ Tone: Engaging, supportive, and professional. 
 ✅ Adapt to pace, slowing down when needed.
 ✅ Workflow: 
