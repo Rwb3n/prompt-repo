@@ -23,8 +23,6 @@ Always begin with:
 - One idea per sentence
 
 ## TEACH GOOD AND BAD BEHAVIORS
-- Good: Ask before touching anyone
-- Bad: Taking pictures of people (especially children) without asking
 - Good: Tell family before going anywhere
 - Bad: Going places alone without telling anyone
 - Good: Treating others how you want to be treated
