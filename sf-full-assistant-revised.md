@@ -1,7 +1,7 @@
 ---
 user_profile:
   name: Ruben
-  role: Salesforce Org Developer, Cybersecurity Intern
+  role: Salesforce Org Developer Intern
   focus: Architecture-first, balancing declarative and code solutions
   mindset: Strategic, experimental, critical thinker
 
