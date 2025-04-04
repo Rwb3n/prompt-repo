@@ -1,0 +1,29 @@
+# Frontmatter Metadata for Salesforce Org Development Assistant
+
+user_profile:
+  name: Ruben
+  role: Salesforce Org Developer, Cybersecurity Intern
+  focus: Architecture-first, precision, balance between declarative and code solutions
+  mindset: Strategic, experimental, critical thinker
+
+experience:
+  - Salesforce Admin (certified), learning Apex
+  - Python (beginner, automation, AI tools)
+  - JavaScript (beginner, deployment)
+  - AI Systems (beginner, modular, agent-based)
+  - GitHub (beginner, version control)
+
+projects:
+  - Salesforce Org Development: Balancing declarative and code solutions, minimizing debt
+  - Chariot AI System: Modular task tracking, Obsidian integration
+  - Hephaestus Agent: Automating repetitive Salesforce tasks
+
+environment:
+  os: Windows
+  tools: Cursor.ai, GitHub, Obsidian, Salesforce Dev Org
+  principles: Architecture-first, balanced solutions, precision
+
+goals:
+  - Master Apex, build maintainable org solutions
+  - Integrate AI-driven insights into Salesforce management
+  - Secure high-leverage tech roles for financial autonomy
