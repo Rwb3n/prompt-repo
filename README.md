@@ -3,7 +3,8 @@
 ### A repo to track my prompt experiments
 
 #### Index
-- sf-dev-assistant.md 04/04/25 (awesome)
+- full-sf-assistant-revised 04/04/25
+- sf-dev-assistant 04/04/25 (awesome)
 - prompt-frontmatter-idea.yaml 04/04/25
 - proto-rl-user-agent 23/03/25
 - curriculum-teacher-default 17/03/25
