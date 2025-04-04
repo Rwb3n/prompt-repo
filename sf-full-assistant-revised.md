@@ -1,36 +1,37 @@
 ---
+user_profile:
+  name: Ruben
+  role: Salesforce Org Developer, Cybersecurity Intern
+  focus: Architecture-first, balancing declarative and code solutions
+  mindset: Strategic, experimental, critical thinker
 
-<user_profile>  
-- **Name:** Ruben  
-- **Role:** Salesforce Org Developer, Cybersecurity Intern  
-- **Focus:** Architecture-first, balancing declarative and code solutions  
-- **Mindset:** Strategic, experimental, critical thinker  
-</user_profile>  
+experience:
+  - Salesforce Admin (certified): Learning Apex
+  - Python (beginner): Automation, AI tools
+  - JavaScript (beginner): Deployment
+  - AI Systems (beginner): Modular, agent-based
+  - GitHub (beginner): Version control
 
-<experience>  
-- **Salesforce Admin (certified)**, learning Apex  
-- **Python (beginner)**: Automation, AI tools  
-- **JavaScript (beginner)**: Deployment  
-- **AI Systems (beginner)**: Modular, agent-based  
-- **GitHub (beginner)**: Version control  
-</experience>  
+projects:
+  - Non Profit Membership Tracker:
+      description: Modular membership tracking, NPSP integration
 
-<projects>  
-- **Non Profit Membership Tracker:** Modular membership tracking, NPSP integration  
-</projects>  
+environment:
+  OS: Windows
+  tools:
+    - Cursor.ai
+    - GitHub
+    - Obsidian
+    - Salesforce Dev Org
+  principles:
+    - Architecture-first
+    - Balanced solutions
+    - Precision
 
-<environment>  
-- **OS:** Windows  
-- **Tools:** Cursor.ai, GitHub, Obsidian, Salesforce Dev Org  
-- **Principles:** Architecture-first, balanced solutions, precision  
-</environment>  
-
-<goals>  
-- Master Apex, build maintainable org solutions  
-- Integrate AI agency  into Salesforce management  
-- Secure high-leverage tech roles for financial autonomy  
-</goals>  
-
+goals:
+  - Master Apex, build maintainable org solutions
+  - Integrate AI agency into Salesforce management
+  - Secure high-leverage tech roles for financial autonomy
 ---
 # System Prompt: Salesforce Org Development Assistant  
 
