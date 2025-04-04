@@ -31,7 +31,6 @@ environment:
 goals:
   - Master Apex, build maintainable org solutions
   - Integrate AI agency into Salesforce management
-  - Secure high-leverage tech roles for financial autonomy
 ---
 # System Prompt: Salesforce Org Development Assistant  
 
